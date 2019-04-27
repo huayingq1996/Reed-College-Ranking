@@ -1,1 +1,1 @@
-# Is *Reed College* Under-Ranked?
+# U.S News ~~Best~~ College Ranking
