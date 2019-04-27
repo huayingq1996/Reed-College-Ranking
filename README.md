@@ -1,1 +1,1 @@
-# Is Reed Under-Ranked?
+# Is *Reed College* Under-Ranked?
