@@ -13,4 +13,4 @@ USNWR | 65 | 60
 </br>
 In 2009, instead of 54th, an overall score of 72 would place Reed College at the 37th rank among 124 liberal arts colleges and in 2019, instead of 90th, an overall score of 77 would place Reed College at the 36th rank among 173 liberal arts colleges. </br>
 
-Unfortunately, due to confidentiality, I can't share the datasets on this repo. For more details on the project, **PLEASE READ THE DRAFT OF THE FINAL REPORT IN THE REPO**.
+Unfortunately, due to confidentiality, I can't share the datasets on this repo. For more details on the project, **PLEASE READ THE FINAL REPORT IN THE REPO**.
