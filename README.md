@@ -13,4 +13,4 @@ USNWR | 65 | 60 | 54 | 77
 
  </br>
 
-Unfortunately, due to confidentiality, I can't share the datasets on this repo. For more details on the project, **PLEASE READ THE FINAL REPORT IN THE REPO**.
+Unfortunately, due to confidentiality, we can't share the datasets on this repo. For more details on the project, **PLEASE READ THE FINAL REPORT IN THE REPO**.
